@@ -10,3 +10,6 @@ https://modeldepot.io/browse
 https://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset  
 
 https://www.kaggle.com/data/31657  
+
+Springleaf Marketing Response  
+* https://www.kaggle.com/c/springleaf-marketing-response/data  
